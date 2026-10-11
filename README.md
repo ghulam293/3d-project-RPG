@@ -48,3 +48,4 @@ This project appears to be a Unity template or starter project that has been upd
 ## License and usage
 
 This project contains Unity-generated and starter content. If you are using the project for a personal or commercial game, ensure that any third-party assets, packages, and Unity licensing terms are respected.
+# 3d-project-RPG
